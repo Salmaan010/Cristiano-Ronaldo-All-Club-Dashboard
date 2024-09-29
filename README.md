@@ -74,6 +74,6 @@ The goal of this project is to build a comprehensive and interactive dashboard t
 - Goals scored with the right foot constituted the majority, followed by headers and penalties.
 
 
-Conclusion:
+**Conclusion**:
 
 This Power BI dashboard serves as a powerful tool to understand Cristiano Ronaldo’s extraordinary goal-scoring career. The interactive features allow users to gain insights into his performance trends, offering valuable information for football fans and analysts alike.
