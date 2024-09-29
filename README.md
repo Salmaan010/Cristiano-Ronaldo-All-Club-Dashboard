@@ -1,17 +1,17 @@
-Cristiano Ronaldo All Club Goals Power BI Dashboard
+**Cristiano Ronaldo All Club Goals Power BI Dashboard**
 
 
-Project Description:
+**Project Description**:
 
 This project provides a detailed analysis of Cristiano Ronaldo’s goal-scoring journey across his major clubs, spanning from 2002 to 2023. By leveraging Power BI for advanced data visualizations, this dashboard offers an interactive exploration of Ronaldo's performance in various competitions and seasons, enabling football analysts, fans, and decision-makers to extract valuable insights.
 
 
-Project Goal:
+**Project Goal**:
 
 The goal of this project is to build a comprehensive and interactive dashboard to analyze Cristiano Ronaldo's goal-scoring performance across different clubs, competitions, and time periods. The project aims to deliver insights using well-structured data models and interactive visualizations, making it easier for users to understand key metrics and trends.
 
 
-Methodology:
+**Methodology**:
 
 - Data Cleaning: Ensured the data's accuracy by eliminating inconsistencies and duplicates using Power Query.
 
@@ -22,7 +22,7 @@ Methodology:
 - Custom DAX Formulas: Implemented DAX for key performance indicators (KPIs) such as total goals, goals per season, and goals by match outcome.
 
 
-Key Features:
+**Key Features**:
 
 1. Comprehensive Data Models: Enhanced data reliability and accuracy by transforming raw data into structured formats.
 
@@ -31,7 +31,7 @@ Key Features:
 3. Custom DAX Calculations: Utilized DAX to compute advanced metrics, including goals by season, goals per competition, and player assists.
 
   
-Visualizations:
+**Visualizations**:
 
 1. KPI Dashboard:
    - Total Goals: Overall goals scored from 2002 to 2023.
@@ -51,12 +51,12 @@ Visualizations:
    - Goals by Club: Breakdown of total goals for each club Ronaldo has played for.
 
    
-Report:
+**Report**:
 
 ![image](https://github.com/user-attachments/assets/dab141d6-3ece-4f58-9b77-798020a000ad)
 
 
-Technologies Used:
+**Technologies Used**:
 
 - Power BI: For data visualization and building the dashboard.
 
@@ -65,7 +65,7 @@ Technologies Used:
 - DAX (Data Analysis Expressions): For custom measures and calculations.
 
   
-Key Insights:
+**Key Insights**:
 
 - Ronaldo's goal-scoring consistency remained strong across all clubs, with a higher percentage of goals scored during wins.
 
